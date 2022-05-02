@@ -1,1 +1,3 @@
 # Jory's Notes
+## Summary
+This repository contains all of the notes taken by [Jory](https://github.com/JoryLa) throughout the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
